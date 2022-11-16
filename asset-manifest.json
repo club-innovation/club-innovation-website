@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/club-innovation-website/static/css/main.073c9b0a.css",
+    "main.js": "/club-innovation-website/static/js/main.7f8459bd.js",
+    "index.html": "/club-innovation-website/index.html",
+    "main.073c9b0a.css.map": "/club-innovation-website/static/css/main.073c9b0a.css.map",
+    "main.7f8459bd.js.map": "/club-innovation-website/static/js/main.7f8459bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7f8459bd.js"
+  ]
+}
